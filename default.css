@@ -37,10 +37,12 @@
 	ul.actions
 	{
 		text-align: center;
+		padding-right: 25px;
 	}
 		
 		ul.actions li
 		{
+			text-align: center;
 		}
 	
 	p
@@ -556,8 +558,9 @@
 	{
 		padding: 3em 2em 2em 2em;
 		border-radius: 8px;
-			text-align: center;
+		text-align: center;
 	}
+
 
 	#extra
 	{
