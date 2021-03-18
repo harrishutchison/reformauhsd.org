@@ -1581,7 +1581,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #9a9a9a;
+		color: #838383;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -1639,6 +1639,11 @@
 
 	strong, b {
 		color: white;
+		font-weight: 600;
+	}
+
+	.bold {
+		color: #6F6F6F;
 		font-weight: 600;
 	}
 
